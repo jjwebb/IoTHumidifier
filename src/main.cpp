@@ -8,8 +8,8 @@
  * or by accessing the /on, /off, or /toggle endpoints.
  */
 
-const char* ssid = "***REMOVED***";
-const char* password = "***REMOVED***";
+const char* ssid = "";
+const char* password = "";
 IPAddress local_IP(192,168,2,45);
 IPAddress gateway(192,168,2,1);
 IPAddress subnet(225,225,225,0);
