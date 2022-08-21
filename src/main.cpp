@@ -8,6 +8,7 @@
  * or by accessing the /on, /off, or /toggle endpoints.
  */
 
+// Modify these parameters for your network
 const char* ssid = "";
 const char* password = "";
 IPAddress local_IP(192,168,2,45);
